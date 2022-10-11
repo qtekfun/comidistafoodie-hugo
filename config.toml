@@ -1,4 +1,19 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://comidistafoodie.com/"
+languageCode = "es-es"
+title = "Comidistafoodie"
 theme = "mediumish"
+summaryLength = 25
+copyright = "Comidistafoodie - All rights reserved"
+#googleAnalytics = "UA-1XXXXXXX1-X"
+
+[params]
+  logo = "/images/logo.png"
+  description = "¡Te cuento lo que como!"
+
+[params.author]
+  name = "Comidistafoodie"
+  #thumbnail = "/images/author.jpg"
+  description = "Comedor de esta web."
+
+[params.social]
+  instagram = "comidistafoodie"
