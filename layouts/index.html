@@ -4,11 +4,11 @@
 
 {{ define "main" }}
     <div class="main-content">
-        <!-- Posts Index
+        <!-- Posts and News Index
         ================================================== -->
-        <section class="recent-posts">                      
+        <section class="recent-reviews">                      
             <div class="row listrecent">
-                {{ $post_paginator := .Paginate (where .Site.RegularPages "Type" "review") }}
+                {{ $post_paginator := .Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) }}
                 {{ range $post_paginator.Pages }}
                     {{- partial "list-partials/postbox.html" . -}}
                 {{end}}
@@ -16,9 +16,10 @@
         </section>
         {{- partial "list-partials/pagination.html" $post_paginator -}}
     </div>
+    {{ .Content }}
     {{- partial "_shared/social.html" . -}}
     {{- partial "_shared/alertbar.html" . -}}
-    {{ .Content }}
+    
 {{ end }}
 
 {{ define "footer"}}
