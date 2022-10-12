@@ -7,7 +7,7 @@ copyright = "Comidistafoodie - All rights reserved"
 #googleAnalytics = "UA-1XXXXXXX1-X"
 
 [permalinks]
-  blog = '/:slug'
+  reviews = '/:slug'
 
 [params]
   logo = "/images/logo.png"
