@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Comidistafoodie</title>
+    <link>https://comidistafoodie.com/tags/</link>
+    <description>Recent content in Tags on Comidistafoodie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>Comidistafoodie - All rights reserved</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:34:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://comidistafoodie.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mediterranea</title>
+      <link>https://comidistafoodie.com/tags/mediterranea/</link>
+      <pubDate>Wed, 12 Oct 2022 00:34:39 +0200</pubDate>
+      
+      <guid>https://comidistafoodie.com/tags/mediterranea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
