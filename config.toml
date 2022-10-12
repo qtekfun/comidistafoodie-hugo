@@ -4,7 +4,7 @@ title = "Comidistafoodie"
 theme = "mediumish"
 summaryLength = 25
 copyright = "Comidistafoodie - All rights reserved"
-googleAnalytics = "G-7Q2F8V4MWJ"
+#googleAnalytics = "G-7Q2F8V4MWJ"
 
 [sitemap]
   changefreq = "weekly" # Frecuency of recreation
