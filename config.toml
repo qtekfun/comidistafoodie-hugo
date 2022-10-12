@@ -1,4 +1,4 @@
-baseURL = "https://comidistafoodie.com/"
+baseURL = "https://comidistafoodie.com"
 languageCode = "es-es"
 title = "Comidistafoodie"
 theme = "mediumish"
@@ -7,7 +7,7 @@ copyright = "Comidistafoodie - All rights reserved"
 #googleAnalytics = "UA-1XXXXXXX1-X"
 
 [permalinks]
-  blog = '/:title'
+  blog = '/:slug'
 
 [params]
   logo = "/images/logo.png"
@@ -20,3 +20,10 @@ copyright = "Comidistafoodie - All rights reserved"
 
 [params.social]
   instagram = "comidistafoodie"
+
+## Main Menu
+[[menu.main]]
+    name = "Home"
+    weight = 100
+    identifier = "home"
+    url = "/"
