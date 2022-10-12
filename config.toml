@@ -9,10 +9,12 @@ copyright = "Comidistafoodie - All rights reserved"
 [permalinks]
   reviews = '/:slug'
   static = '/:slug'
+  noticias = '/:slug'
 
 [params]
   logo = "/images/logo.png"
   description = "¡Te cuento lo que como!"
+  mainSections = ['noticia', 'review']
 
 [params.author]
   name = "Comidistafoodie"
