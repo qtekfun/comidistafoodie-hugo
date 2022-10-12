@@ -4,7 +4,12 @@ title = "Comidistafoodie"
 theme = "mediumish"
 summaryLength = 25
 copyright = "Comidistafoodie - All rights reserved"
-#googleAnalytics = "UA-1XXXXXXX1-X"
+googleAnalytics = "G-7Q2F8V4MWJ"
+
+[sitemap]
+  changefreq = "weekly" # Frecuency of recreation
+  priority = 0.5
+  filename = "sitemap.xml" # Path of sitemap
 
 [permalinks]
   reviews = '/:slug'
