@@ -6,6 +6,9 @@ summaryLength = 25
 copyright = "Comidistafoodie - All rights reserved"
 #googleAnalytics = "UA-1XXXXXXX1-X"
 
+[permalinks]
+  blog = '/:title'
+
 [params]
   logo = "/images/logo.png"
   description = "¡Te cuento lo que como!"
