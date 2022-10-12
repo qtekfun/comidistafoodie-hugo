@@ -1,7 +1,7 @@
 baseURL = "https://comidistafoodie.com"
 languageCode = "es-es"
 title = "Comidistafoodie"
-theme = "mediumish"
+theme = "mediumish-gohugo"
 summaryLength = 25
 copyright = "Comidistafoodie - All rights reserved"
 #googleAnalytics = "G-7Q2F8V4MWJ"
