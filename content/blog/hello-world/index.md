@@ -7,6 +7,5 @@ type: "review"
 comments: false
 tags: ["Mediterranea"]
 ---
-# Hello World
 
 This is my hello world.
