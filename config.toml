@@ -8,6 +8,7 @@ copyright = "Comidistafoodie - All rights reserved"
 
 [permalinks]
   reviews = '/:slug'
+  static = '/:slug'
 
 [params]
   logo = "/images/logo.png"
