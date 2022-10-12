@@ -31,17 +31,27 @@ copyright = "Comidistafoodie - All rights reserved"
     identifier = "home"
     url = "/"
 [[menu.main]]
-    name = "Aviso Legal"
+    name = "Reviews"
     weight = 90
+    identifier = "reviews"
+    url = "/reviews"
+[[menu.main]]
+    name = "Noticias"
+    weight = 90
+    identifier = "noticias"
+    url = "/noticias"
+[[menu.main]]
+    name = "Aviso Legal"
+    weight = 80
     identifier = "aviso-legal"
     url = "/aviso-legal"
 [[menu.main]]
     name = "Política de Cookies"
-    weight = 90
+    weight = 80
     identifier = "politica-de-cookies"
     url = "/politica-de-cookies"
 [[menu.main]]
     name = "Política de Privacidad"
-    weight = 90
+    weight = 80
     identifier = "politica-de-privacidad"
     url = "/politica-de-privacidad"
