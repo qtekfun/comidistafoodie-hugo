@@ -31,25 +31,25 @@ copyright = "Comidistafoodie - All rights reserved"
 
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
-    anonymizeIP = false
+    anonymizeIP = true
     disable = false
-    respectDoNotTrack = false
+    respectDoNotTrack = true
     useSessionStorage = false
   [privacy.instagram]
-    disable = false
+    disable = true
     simple = false
   [privacy.twitter]
-    disable = false
+    disable = true
     enableDNT = false
     simple = false
   [privacy.vimeo]
-    disable = false
+    disable = true
     enableDNT = false
     simple = false
   [privacy.youtube]
-    disable = false
+    disable = true
     privacyEnhanced = false
 
 ## Main Menu
