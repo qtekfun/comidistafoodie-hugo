@@ -2,7 +2,7 @@
 title: "Vietnam Mekong"
 date: 2022-10-12T16:28:24+02:00
 publishdate: 2022-10-12T16:28:24+02:00
-tags: [asiatica]
+tags: [asiática]
 comments: false
 draft: false
 type: "review"
