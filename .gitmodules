@@ -1,6 +1,3 @@
-[submodule "themes/mediumish"]
-	path = themes/mediumish
-	url = https://github.com/qtekfun/mediumish-gohugo
 [submodule "themes/mediumish-gohugo"]
 	path = themes/mediumish-gohugo
 	url = git@github.com:qtekfun/mediumish-gohugo.git
