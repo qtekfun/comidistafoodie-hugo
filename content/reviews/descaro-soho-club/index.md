@@ -12,7 +12,7 @@ type: "review"
 📍 Plaza de España 6, 2ª planta #Madrid
 💲 Precio: 💲💲
 ⭐️ Valoración: 6
-✨ Una experiencia muy agridulce, unos precios nada justificados por la calidad de las elaboraciones y un ambiente en el que comías acinado y no se podía hablar.
+✨ Una experiencia muy agridulce, unos precios nada justificados por la calidad de las elaboraciones y un ambiente en el que comías hacinado y no se podía hablar.
 
 Pedimos para cuatro comensales que comemos poco en cenas:
 
@@ -28,7 +28,7 @@ Pedimos para cuatro comensales que comemos poco en cenas:
 
 Y os estoy contando los platos tal cual salieron. A partir de aquí, la cosa empezó a caer en picado.
 
-* Berenjena con hummus y miel (12€): Una berenjena frita pero fría, posiblemente esperó en cocina más de lo necesario, con un humos que no tenía demasiado sabor y un cuenco de miel. Lo de la miel, tiene un pase, pero el humus carece de sentido con la berenjena, más aún cuando no puedes usarla para mojar, porque si algo tiene el humus, es que es para dippear.
+* Berenjena con hummus y miel (12€): Una berenjena frita pero fría, posiblemente esperó en cocina más de lo necesario, con un hummus que no tenía demasiado sabor y un cuenco de miel. Lo de la miel, tiene un pase, pero el hummus carece de sentido con la berenjena, más aún cuando no puedes usarla para mojar, porque si algo tiene el hummus, es que es para dippear.
 
 ![Berenjena con humus y miel](images/berenjena.webp)
 
