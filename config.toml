@@ -34,7 +34,7 @@ copyright = "Comidistafoodie - All rights reserved"
     disable = true
   [privacy.googleAnalytics]
     anonymizeIP = true
-    disable = false
+    disable = true
     respectDoNotTrack = true
     useSessionStorage = false
   [privacy.instagram]
