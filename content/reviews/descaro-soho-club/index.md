@@ -16,7 +16,7 @@ type: "review"
 
 Pedimos para cuatro comensales que comemos poco en cenas:
 
-![Surtido de croquetas cremosas](images/croquetas-de-jam%C3%B3n.webp)
+![Surtido de croquetas cremosas](images/croquetas-de-jamon.webp)
 
 * Surtido de croquetas cremosas (6 unidades, 12€): Se supone que debían ser mitad de choco y mitad de jamón pero no había de choco. Mal empezamos. Las croquetas en sí estaban buenas, sabrosas, vamos lo esperado. No te vuelven loco pero ni tan mal oye. La verdad que tampoco tenían mal corte:
 
