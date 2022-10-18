@@ -7,7 +7,7 @@ comments: false
 draft: false
 type: "noticia"
 ---
-El día 25 de Octubre es el día Internacional de la pasta, por ello, los chicos de Big Mamma nos han enviado una gúia de ¿Cómo hacer pasta fresca? y quería compartirla con vosotros.
+El día 25 de Octubre es el día Internacional de la pasta, por ello, los chicos de Big Mamma nos han enviado una guía de ¿Cómo hacer pasta fresca? y quería compartirla con vosotros.
 
 ## ¿Cómo hacer pasta fresca?
 
@@ -23,7 +23,7 @@ Y con eso, mezclar y mezclar y todo es empezar.
 
 ### Pasta fresca solo con agua
 
-Algo parecído a la pasta con huevo:
+Algo parecido a la pasta con huevo:
 1. 150 gramos de harina 00
 2. 43 mililítros de agua
 3. Una pizca de sal
@@ -48,12 +48,12 @@ Y mezclar pero siempre espolvoreando sémola fina para amasar sin que se nos peg
 
 Pero si eres como yo, un poco perezoso y manco en la cocina, lo mejor es que vayas a alguno de estos restaurantes, donde tienen cosas como:
 
-* Cappellacci: los primos hermanos de los tortllini o ravioli.
-* Casarecce: son pequelos giros de pasta siciliana, que parece que estan enrollados en si mismos.
+* Cappellacci: los primos hermanos de los tortellini o ravioli.
+* Casarecce: son pequeños giros de pasta siciliana, que parece que estan enrollados en si mismos.
 * Fettuccine: pasta hecha con huevo, harina y agua. Por culturilla, su nombre viene de "fettuccia", traducción en italiano de "tirilla".
 * Girella: masa de pasta en forma de canuto enrollado, como un canelón.
 
-Y de estos, casi todos los teneis en Vila Capri y en Bel Mondo que esperamos visitar en algún momento, con o que estad al tanto para ver ¡mi opinión al respecto!
+Y de estos, casi todos los tenéis en Villa Capri y en Bel Mondo que esperamos visitar en algún momento, con lo que estad al tanto para ver ¡mi opinión al respecto!
 
 ¡BUON APPETITO!
 
