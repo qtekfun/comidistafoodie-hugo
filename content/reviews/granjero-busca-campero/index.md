@@ -17,7 +17,7 @@ type: "review"
 ## Opinión Granjero Busca Campero
 
 Sus productos son:
-- Campero: es un pan redondo tostado que traen desde Malaga todas semanas y con una gran variedad de recetas con nombred de Drag Queen. En concreto probamos el "Donna Mercadonna" que incluye lomo a la pimienta, jamón cocido, cebolla caramelizada, bacon y queso Cammembert. Estaba riquísimo de sabor y super jugoso en boca. Su precio 7€ y os aseguro que cenais con ello.
+- Campero: es un pan redondo tostado que traen desde Malaga todas semanas y con una gran variedad de recetas con nombres de Drag Queen. En concreto probamos el "Donna Mercadonna" que incluye lomo a la pimienta, jamón cocido, cebolla caramelizada, bacon y queso Camembert. Estaba riquísimo de sabor y super jugoso en boca. Su precio 7€ y os aseguro que cenais con ello.
 
 ![Campero](images/campero-donna-mercadonna.webp)
 ![Detalle Campero](images/detalle-campero-mercadonna.webp)
@@ -30,7 +30,7 @@ Los teneis en formato pepito por 3,50#.
 ![Papa Asada](images/papa-asada.webp)
 ![Detalle papa](images/detalle-papa-asada.webp)
 
-Sus propietarios, Encarni y Paco son super amábles, es como un pedacito de su tierra en el centro del caótico Madrid desde hace más de 7 años. El local solo tiene 5 mesas pero también tienen delivery a casa.
+Sus propietarios, Encarni y Paco son super amables, es como un pedacito de su tierra en el centro del caótico Madrid desde hace más de 7 años. El local solo tiene 5 mesas pero también tienen delivery a casa.
 
 En este caso, fui acompañando a una persona y la experiencia no pudo ser más mejorable. Os recomiendo que os paseis. Es 100% recomendable y estoy seguro que volveré.
 
