@@ -25,7 +25,7 @@ Sus productos son:
 
 Los teneis en formato pepito por 3,50#.
 
-- Papa asada: otro de los platos típicos de la costa del sol. En este caso una patata cocida gigante abierta en canal rellena de bacon, jamon cocido, zanahoria, maiz, aceitunas, pepinillos y mayonesa. Otro bocado con el que cenais seguro.
+- Papa asada: otro de los platos típicos de la costa del sol. En este caso una patata asada gigante abierta en canal rellena de bacon, jamon cocido, zanahoria, maiz, aceitunas, pepinillos y mayonesa. Otro bocado con el que cenais seguro.
 
 ![Papa Asada](images/papa-asada.webp)
 ![Detalle papa](images/detalle-papa-asada.webp)
