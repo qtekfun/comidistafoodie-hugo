@@ -1,5 +1,5 @@
 ---
-title: "Makkila Almagro (Carta Vermú)"
+title: "Makkila Almagro (Carta Vermu)"
 date: 2022-11-05T17:52:25+01:00
 publishdate: 2022-11-05T17:52:25+01:00
 tags: [mediterranea, aperitivo]
@@ -22,7 +22,7 @@ Las mesas flanquean una barra que gobierna la planta a pie de calle, donde proba
 > Nota: Esta carta especial de Makkila solo está disponible viernes, sábados y domingos de 12 a 14. Os dejo aquí el link a [la carta vermú de Makkila Almagro](https://makkila.com/carta-vermu-almagro/)
 
 Pude probar:
-- Torrezno (4,5€ unidad): Me gustó muchisimo primero que no fuese super grasiento, ya que contenía más magro que grasa y segundo que habían dejado no demasiada corteza, que al freírlo había quedado crujiente crujiente.
+- Torrezno (4,5€ unidad): Me gustó muchísimo primero que no fuese super grasiento, ya que contenía más magro que grasa y segundo que habían dejado no demasiada corteza, que al freírlo había quedado crujiente crujiente.
 ![Torrezno](images/torrezno.webp)
 
 - Bravas Makkila (5,5€): Las bravas cañí por excelencia. Fritas como debe ser y con una salsa brava no muy picante.
@@ -51,7 +51,7 @@ Y como queríamos cerrar con algo dulce, recurrimos a la [carta de Makkila Almag
 - Tarta cremosa de queso con helado de fresa (6,9€): Una de las mejores tartas de queso que he probado. Sin duda está en el top de #Madrid. Cuenta con un núcleo bastante cremoso pero con consistencia. Viene acompañado con un helado de fresa que tiene ese puntito ácido de las fresas que conjuga tan bien con el queso. Si vais y tenéis hueco es un "must".
 ![Tarta cremosa de queso con helado de fresa](images/tarta-de-queso.webp)
 
-- Tarta crujiente de manzana con helado de vainilla (7,9€): Y este es el "must" si llegais con poca hambre al postre. Es una base de pasta filo, con manzana Gran Smith, que le da un toque ácido combinado con el azúcar glass, el helado de vainilla y la pasta filo harán las delicias de todos. La ventaja de este postre (que podríais verlo como penalidad si tenéis prisa) es que tarda 15 minutos en servirse porque se hornea al momento. Una cosa que me parece una pasada.
+- Tarta crujiente de manzana con helado de vainilla (7,9€): Y este es el "must" si llegáis con poca hambre al postre. Es una base de pasta filo, con manzana Gran Smith, que le da un toque ácido combinado con el azúcar glass, el helado de vainilla y la pasta filo harán las delicias de todos. La ventaja de este postre (que podríais verlo como penalidad si tenéis prisa) es que tarda 15 minutos en servirse porque se hornea al momento. Una cosa que me parece una pasada.
 ![Tarta crujiente de manzana con helado de vainilla](images/tarta-crujente-de-manzana.webp)
 
 ## La filosofía de la carta vermú de Makkila
