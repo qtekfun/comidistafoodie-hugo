@@ -18,8 +18,12 @@ En ellos y de la mano de sus chefs, Gilberto Renna en Bel Mondo y Luigi Venturo 
 * vitello tonnato
 * fish&amp;chips de baccalà
 * crudo de gamberi.
-**Plato principal**: spaghetti alle vongole y stinco con polenta e funghi
+**Plato principal**: 
+* spaghetti alle vongole
+* stinco con polenta e funghi
 **Postre dulce**: brownie con crema de nduja (elaborado por la chef pastelera Fabiana de Vincenzi)
+
+![stinco con polenta e funghi](images/Stinco-Polenta-e-Funghi.webp)
 
 Asíque si teneis ganas de una navidad italiana, esta es una opción.
 *NOTA: Los días 24, 25 y 26 de Diciembre, los restaurantes estarán cerrados*
