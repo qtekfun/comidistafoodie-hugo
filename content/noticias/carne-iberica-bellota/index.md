@@ -21,7 +21,7 @@ La carne 100% ibérica de bellota es un producto limitado, fresco y de temporada
 
 Para celebrar el comienzo de la temporada de la carne fresca ibérica de bellota, Carrasco Ibéricos lanza la 10ª edición de sus Jornadas Gastronómicas del Ibérico Fresco de Bellota. Del 15 de febrero hasta el 31 de marzo, una selección de restaurantes exclusivos participan incluyendo los mejores frescos de Carrasco en sus cartas.
 
-Si eres un amante de los mejores sabores y buscas algo diferente, ahora es la época perfecta para poder ir a degustar los mejores frescos 100% ibéricos de Bellota. Descubre aquí todos los restaurantes.
+Si eres un amante de los mejores sabores y buscas algo diferente, ahora es la época perfecta para poder ir a degustar los mejores frescos 100% ibéricos de Bellota. Descubre [aquí](https://carrascoibericos.com/donde-comer-carnes-ibericas-carrasco/) todos los restaurantes.
 
 ![Jamón](Images/jamon.jpg)
 
@@ -31,4 +31,4 @@ Para los más cocinillas, también a través de su página web de Carrasco, podr
 
 ## Desde Guijuelo directo a casa
 
-Además, Carrasco Ibéricos ofrece la posibilidad de comprar su carne fresca de bellota directamente desde Guijuelo a través de su página web. De esta forma, podrás disfrutar de este producto exclusivo y de alta calidad en tu hogar, y preparar deliciosos platos con la carne fresca de bellota.
+Además, Carrasco Ibéricos ofrece la posibilidad de comprar su carne fresca de bellota directamente desde Guijuelo a través de su [página web](https://carrascoibericos.com/tienda/carnes-ibericas/). De esta forma, podrás disfrutar de este producto exclusivo y de alta calidad en tu hogar, y preparar deliciosos platos con la carne fresca de bellota.
