@@ -39,6 +39,6 @@ Para cerrar, pedimos:
 
 Es un concepto muy distinto al resto de la oferta gastronómica de la zona. Sin duda, repetiría
 
-Gracias a Rocakde por la invitación
+Gracias a Rockade por la invitación
 
 #burguer #cheesecake #coulant #hotdog #perrito caliente #gyozas #arcade #malasaña
