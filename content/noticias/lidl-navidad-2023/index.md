@@ -1,6 +1,7 @@
 ---
 title: "Lidl Desata la Explosión de Sabores en esta Navidad 2023 🎄🎁 Descubre los Imperdibles Productos para tus Fiestas "
 date: 2023-12-14T16:49:16+01:00
+slug: "cesta-lidl-2023"
 publishdate: 2023-12-14T16:49:16+01:00
 tags: [noticias]
 comments: false
